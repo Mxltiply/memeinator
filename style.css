@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.memeContainer {
+    text-align: center; /* aligns the inner elements horizontally */
+    /*border: 5px solid green;*/
+    top: -30px;
+    position: relative;
+}
+  
+.memeContainer img {
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    border: 10px solid black;
+    border-radius: 5px;
+}
+
+.timerText {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+}
+
+.subredditContainer {
+    text-align: center;
+    top: -60px;
+    right: 15px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.linkContainer {
+    text-align: center;
+    top: -70px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
